@@ -76,7 +76,7 @@ SITEIMAGE = 'https://bmdconf.org/images/bmd-ver-logo-200x275.png'
 DESCRIPTION = ''
 # pelican-alchemy removed the original theme.css, so bring it back.
 THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
-REPO_URL = 'https://github.com/mechmotum/bmd2023.github.io'
+REPO_URL = SOURCEURL
 # TODO : Fix the template so that if this isn't declared it still builds.
 EXCLUDED_CATEGORIES = []
 
