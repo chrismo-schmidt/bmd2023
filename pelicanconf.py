@@ -70,7 +70,7 @@ else:
 DISQUS_SITENAME = ""
 SITESUBTITLE = ('Symposium on the Dynamics and Control of Single Track Vehicles '
     '<br> 18-20 October 2023, Delft University of Technology, Delft, Netherlands')
-SITEIMAGE = 'https://bmdconf.org/images/bmd-ver-logo-200x275.png'
+SITEIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-small-300x400.png'
 # INSTITUTEIMAGE should bee 100px in height
 #INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
 DESCRIPTION = ''

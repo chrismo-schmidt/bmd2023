@@ -6,6 +6,9 @@ Save the Date!
 :category: news
 :authors: Jason K. Moore
 
+.. image:: https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-large-640x295.png
+   :align: center
+
 The fifth triennial [*]_ international `Bicycle and Motorcycle Dynamics Conference
 <https://bmdconf.org>`_ will be held **October 18-20, 2023** on the `Delft
 University of Technology <https://www.tudelft.nl>`_ campus in Delft,

@@ -8,12 +8,25 @@ About
 :date: 2021-09-23
 :front: true
 
-.. figure:: https://live.staticflickr.com/5295/5392443921_6e5251027b_b.jpg
-   :height: 300px
+.. list-table::
+   :class: borderless
+   :width: 100%
    :align: center
 
-   TU Delft's Mekel Park in August (`CC-BY-NC 2.0
-   <https://www.flickr.com/photos/tudelft/5392443921>`_)
+   *  - |logo|
+        |tud-logo|
+      - |campus|
+        TU Delft's Mekel Park in August (`CC-BY-NC 2.0 <https://www.flickr.com/photos/tudelft/5392443921>`_)
+
+.. |logo| image:: https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-large-640x295.png
+   :width: 100%
+
+.. |tud-logo| image:: https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png
+   :width: 50%
+
+.. |campus| image::  https://live.staticflickr.com/5295/5392443921_6e5251027b_b.jpg
+   :width: 100%
+
 
 The fifth triennial [*]_ international three-day symposium on bicycle and
 motorcycle dynamics, BMD 2023, will return to its original host, Delft
