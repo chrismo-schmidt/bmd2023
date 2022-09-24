@@ -32,7 +32,7 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_ORDER_BY = 'sortorder'
 
-MENUITEMS = [('News', '/news/')]
+MENUITEMS = [('News', 'news/')]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
