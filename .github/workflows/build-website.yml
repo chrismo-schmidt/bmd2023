@@ -31,3 +31,4 @@ jobs:
       env:
         PELICAN_CONFIG_FILE: publishconf.py
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GH_PAGES_CNAME: "2023.bmdconf.org"
