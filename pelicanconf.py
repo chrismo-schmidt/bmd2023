@@ -11,11 +11,11 @@ SITENAME = 'Bicycle & Motorcycle Dynamics 2023'
 AUTHOR = SITENAME
 SITENAME = SITENAME
 SITEURL = ''
-SOURCEURL = 'https://github.com/mechmotum/bmd2023.github.io'
+SOURCEURL = 'https://github.com/mechmotum/bmd2023'
 
 PATH = 'content'
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 

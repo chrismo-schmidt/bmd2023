@@ -13,7 +13,7 @@ from pelicanconf import *
 THEME = "pelican-alchemy/alchemy"
 PLUGIN_PATHS = "pelican-plugins"
 
-SITEURL = 'https://mechmotum.github.io/bmdconf'
+SITEURL = 'https://mechmotum.github.io/bmd2023'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
