@@ -59,8 +59,9 @@ stay updated.
 Organizing Committee
 ====================
 
-- Jason K. Moore, Chair (j.k.moore@tudelft.nl)
-- Andrew Dressel
+- Jason K. Moore [TU Delft], Chair (j.k.moore@tudelft.nl)
+- Andrew Dressel [TU Delft]
+- Edwin de Vries [Cruden]
 
 Sponsors
 ========
