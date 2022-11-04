@@ -2,7 +2,6 @@
 Sponsor Information
 ===================
 
-
 Delft University of Technology has a long history of innovation and a thriving
 industry associated with bicycles, motorcycles, and associated technologies and
 the research results produced by the Bicycle and Motorcycle Dynamics community
@@ -23,7 +22,7 @@ Sponsorship Tiers
 
    * - Tier
      - Perks
-   * - **Gold (> 3000 EUR)**
+   * - **Gold (3000 EUR and above)**
      -
 
        - Company name, logo, and website URL on the conference website
@@ -31,7 +30,7 @@ Sponsorship Tiers
        - Single table and space in the exhibition area from 8:00-17:00 Oct 18-20
        - Four conference passes that cover the full registration cost
 
-   * - **Silver (1500 EUR - 2999 EUR)**
+   * - **Silver (1500 EUR to 2999 EUR)**
      -
 
       - Company name, logo, and website URL on the conference website
