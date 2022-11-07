@@ -2,15 +2,14 @@
 Sponsor Information
 ===================
 
-Delft University of Technology has a long history of innovation and a thriving
-industry associated with bicycles, motorcycles, and associated technologies and
-the research results produced by the Bicycle and Motorcycle Dynamics community
-have helped advanced many commercially successful vehicle technologies through
-a wide assortment of companies and organizations. We kindly ask any financially
-able companies and organizations to consider sponsoring the conference. We rely
-on financial sponsorship from companies and organizations to cover
-approximately half of the conference budget so that we can keep registration
-costs low while providing a high quality experience.
+The Bicycle and Motorcycle Dynamics symposium is the premier international
+venue for researchers into the stability, handling, and control of narrow-track
+vehicles. In 2023, the event will return to TU Delft, where it began and where
+there is a long history of innovation and a thriving industry associated with
+bicycles, motorcycles, and associated technologies. We invite you to join the
+sponsors of the event, come and meet the researchers, and introduce your
+organization to them. Such sponsorships help keep registration costs low while
+providing a high-quality experience.
 
 Sponsorship Tiers
 =================
