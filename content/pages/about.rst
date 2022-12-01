@@ -63,19 +63,25 @@ Important Dates
 ===============
 
 .. list-table::
-   :class: table
+   :class: table table-striped
    :header-rows: 1
 
    * - Description
      - Date & Time
-   * - Two Page Abstract Deadline
+   * - Abstract Deadline
      - February 28, 2023 [23:59 UTC]
    * - Notification of Acceptance
      - May 1, 2023
+   * - Revised Abstract Deadline
+     - June 30, 2023 [23:59 UTC]
    * - Early Bird Registration Deadline
      - August 15, 2023 [23:59 UTC]
-   * - Final Paper Deadline
+   * - Paper Deadline
      - September 15, 2023 [23:59 UTC]
+   * - Paper peer review deadline
+     - TBA (after the conference)
+   * - Final peer review revision deadline
+     - TBA (after the conference)
 
 Organizing Committee
 ====================
