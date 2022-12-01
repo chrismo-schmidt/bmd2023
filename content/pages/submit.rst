@@ -1,98 +1,160 @@
-=============================
-Abstract and Paper Submission
-=============================
+======
+Submit
+======
 
+.. contents::
+   :local:
 
+New Proceedings and Review Model
+================================
 
-The Technical Committee will make the final
-determination as to whether the submission will be accepted as a paper or
-poster.
+BMD 2023 is partnering with `TU Delft Open Publishing`_ so that we can
+introduce enhancements to our conference proceedings review and publishing
+process and finally have a formal proceedings publication. TU Delft Open
+Publishing is an open access university publisher providing a free-to-publish
+model with `Creative Commons`_ licensing, transparent recognition, and no
+royalties.
 
-Authors will be notified of acceptance and format prior to the
-Acceptance Deadline.
+.. _TU Delft Open Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
+.. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
 
-All accepted abstracts will be posted on the BMD 2019 website after Author
-acknowledgement of acceptance.
+This partnership provides these enhancements:
+
+- Peer reviewed and archived abstracts and papers
+- Published and indexed open access conference proceedings (`prior examples`_)
+- `Open peer review`_ software system via Orvium_
+- Conference community platform via Orvium_ for submission, reviews,
+  registration, and online interaction
+- We will be part of the `Evolving Scholar`_ project and receive review and
+  publishing support
+
+See below for details on submitting your abstracts and papers.
+
+Important Dates
+===============
+
+.. list-table::
+   :class: table table-striped
+   :header-rows: 1
+
+   * - Description
+     - Date & Time
+   * - Abstract Deadline
+     - February 28, 2023 [23:59 UTC]
+   * - Notification of Acceptance
+     - May 1, 2023
+   * - Revised Abstract Deadline
+     - June 30, 2023 [23:59 UTC]
+   * - Early Bird Registration Deadline
+     - August 15, 2023 [23:59 UTC]
+   * - Paper Deadline
+     - September 15, 2023 [23:59 UTC]
+   * - Paper peer review deadline
+     - TBA (after the conference)
+   * - Final peer review revision deadline
+     - TBA (after the conference)
+
+Topics
+======
+
+Topics include but are not limited to: bicycles, motorcycles, unicycles, single
+track vehicles, modeling, kinematics and dynamics, control, human control,
+rider properties, handling qualities, tires, experiments, aerodynamics,
+simulators, nonholonomic dynamics, robot riders, path following.
+
+Orvium
+======
+
+Conference attendees will create an account on our to-be-announced Orvium_
+conference community page. There you will be able to submit abstracts and
+papers as well as see anonymized reviews. We will share the page and login
+instructions at a later date.
 
 Abstracts
 =========
 
-If you would like to present your work at the conference, you will need to
-submit a 2 page abstract that describes the research you wish to present by
-Februrary 28, 2023 [23:59 UTC]. Please state clear objectives, results, and
-conclusions.
+If you would like to present your work at the conference, you must submit an
+abstract of maximum 2 pages that describes the research you wish to present by
+February 28, 2023 [23:59 UTC]. Please state clear objectives, results, and
+conclusions and cite applicable references.
 
+You must use the provided templates and submit your abstract as a PDF to our
+Evolving Scholar Orvium Community. Your "under review" abstract will
+immediately be publicly viewable on Orvium_. Following submission, your
+abstract will be reviewed by the scientific committee and ranked for relevance
+and quality for inclusion in the conference. The anonymized reviewer comments
+will be publicly viewable as part of our `open peer review`_ process.
 
-and indicate any
-preference the Author(s) may have for final submission as a paper or poster.
+Based on the reviews, your abstract will be either accepted and selected for a
+podium or a poster presentation or it will be rejected. The organizing
+committee will make all final decisions based on topical fit, scientific
+committee reviews, and conference capacity.
 
-You will submit a PDF of your abstract using
-one of the following templates to our Orvium community.
+For accepted abstracts, you will be required to revise your abstract based on
+the reviews and submit a final version by June 30, 2023 [23:59 UTC]. The
+revised version will be printed in the book of abstracts as well as published
+in the final conference proceedings alongside the papers.
 
+Presentations
+=============
 
-Your abstract will be reviewed by the scientific committee and ranked for
-relevance and quality for the conference. Your abstract will be selected for
-either a podium presentation, a poster presentation, or be rejected. The
-reviewer comments from the scientific committee will be provided to all
-submitting authors. For those that are accepted, you will need to revise your
-abstract based on the feedback and submit a final version. The revised version
-will be shared publicly on the Orvium website with a citable DOI and will be
-published in the conference proceeding books.
-
-Accepted authors will retain their copyright to the abstract but will be
-required to grant a CC-BY 4.0 License for our use in publishing the abstracts
-in the final proceedings book and as a preprint on the Ovrium website.
-
-Accepted papers will require a 20 minute presentation at the Symposium, and
-posters will be displayed with the potential for short oral presentations
-during one or more sessions.
+If your abstract is accepted you will be assigned to either a 15 minute oral
+presentation (+5 min Q&A) or a poster presentation. Oral presenters will have
+access to a standard projection screen for showing slides. Your poster will be
+attached to a poster board on the first conference day and visible for the
+duration of the conference and during the poster session.
 
 Papers
 ======
 
-All authors with accepted abstracts will need to submit a paper of length 6-12
-pages by September 15, 2023 [23:59 UTC]. These papers will be shared publicly
-as a preprint on the Ovrium website for reading by the confernece attendees as
-well as the general public. Authors will retain their copyright to the abstract
-but will be required to grant a CC-BY 4.0 License for our use in publishing the
-as a preprint on the Ovrium website.
+All accepted authors may optionally submit a paper of length 6-12 pages which
+expands on your abstract by September 15, 2023 [23:59 UTC]. This paper will
+undergo a post-conference peer review and, if the paper passes the review by a
+to-be-announced deadline, it will be published in the conference proceedings
+book. The papers (all versions) and their anonymized reviews will be available
+publicly on the Orvium_ community for the conference as well as during and
+after the review process.
 
-For authors that choose so, the paper will undergo peer review by at least two
-members of the scientific committee. The peer reviw process will be an open
-process where the author and reviewers comments are publicly visible on the
-Orvium platform. Reviewers may opt to display their name publicly.
+Published Proceedings
+=====================
 
-Those papers that pass review by Date, XX, XXXX will be published open access
-(authors retain copyright, granting CC-BY 4.0) in the official conference
-proceedings book byt TU Delft Open Publishing. This book will include all of
-the accepted abstracts as a record of the conference output and the peer
-reviewed papers. This book will have an ISSN, ISBN, and be indexed by Google
-Scholar, x, and x.
+The proceedings (revised abstracts and peer reviewed papers) will be formally
+published as an online open access book by `TU Delft Open Publishing`_. The
+book will be assigned an ISBN/ISSN, Digital Object Identifiers (DOIs), and be
+indexed by services such as Google Scholar, the `Directory of Open Access
+Books`_, and OpenAire_.
 
-Posters
-=======
-
-There is no template for the poster, however you will include the header
-reported in the abstract template, with the conference name, location and
-dates. The maximum size of the poster is A0 (841x1189mm). You will bring the
-poster to Padova and the poster will be attached to a poster board on the first
-conference day. You will also submit the poster as a single PDF to
-info@bmd2019.org and with the file name that will include authors’ surnames,
-e.g. Surname1Surname2_poster.pdf.
+.. _OpenAire: https://www.openaire.eu/
+.. _Directory of Open Access Books: https://doabooks.org
 
 Templates
 =========
 
-Please use the following templates for your abstract submissions.
+Microsoft Word and LaTeX templates for the abstracts and papers will be
+provided soon. We are still finalizing the design to be compatible with TU
+Delft Open Publishing, so check back later.
 
-LaTeX
+There is no template for the poster, however you should include the BMD
+conference header reported in the abstract template, with the conference name,
+location and dates. The maximum size of the poster is A0 (841x1189mm).
 
-Microsoft Word
+Copyright
+=========
 
-Best paper and Best poster Awards
-=================================
+Authors will retain copyright to all versions of their abstracts and papers but
+will be required to grant a CC-BY 4.0 License to `TU Delft Open Publishing`_
+and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
+and publishing the abstracts and papers. Similarly, reviewers retain copyright
+to their reviews but grant a CC-BY 4.0 License for display on the Orvium_
+community.
 
-A best paper award will be issued by the Scientific Committee of BMD 2019,
-which will allow the authors a free access voucher for the publication on
-Vehicle System Dynamics, the International Journal of Vehicle Mechanics and
-Mobility by Taylor & Francis.
+Open Peer Review
+================
+
+Anonymized reviewer comments will be publicly viewable alongside the abstracts
+and papers on the Orvium_ community.
+
+.. _Orvium: https://dapp.orvium.io/
+.. _Evolving Scholar: https://journals.open.tudelft.nl/thes
+.. _open peer review: https://en.wikipedia.org/wiki/Open_peer_review
+.. _prior examples: https://books.open.tudelft.nl/home
