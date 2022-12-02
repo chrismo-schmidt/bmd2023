@@ -1,7 +1,8 @@
-======
-Submit
-======
+=======================
+Submit Abstract & Paper
+=======================
 
+:slug: submit
 :sortorder: 1
 
 .. contents:: Table of Contents
