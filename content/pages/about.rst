@@ -36,11 +36,12 @@ is to bring together leading scientists and researchers in the field of bicycle
 and motorcycle dynamics and control, in a broad sense.
 
 Topics include but are not limited to: single track vehicles (e.g. bicycles,
-motorcycles, scooters), narrow track and tilting vehicles, unicycles, modeling,
-kinematics and dynamics, control, human control, rider properties, handling
-qualities, tires, experiments, aerodynamics, simulators, nonholonomic dynamics,
-robot riders, path following. More information on the conference series can be
-found at the `conference organization website <https://bmdconf.org>`_.
+motorcycles, scooters), narrow track and tilting vehicles, unicycles, dicycles
+(e.g. Segways and hoverboards), modeling, kinematics and dynamics, control,
+human control, rider properties, handling qualities, tires, experiments,
+aerodynamics, simulators, nonholonomic dynamics, robot riders, path following.
+More information on the conference series can be found at the `conference
+organization website <https://bmdconf.org>`_.
 
 For an open sharing of information, the meeting is organized to provide as much
 interaction between participants as possible. The format is informal and fluid,
