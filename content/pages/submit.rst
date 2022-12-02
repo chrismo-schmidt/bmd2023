@@ -57,10 +57,11 @@ Important Dates
 Topics
 ======
 
-Topics include but are not limited to: bicycles, motorcycles, unicycles, single
-track vehicles, modeling, kinematics and dynamics, control, human control,
-rider properties, handling qualities, tires, experiments, aerodynamics,
-simulators, nonholonomic dynamics, robot riders, path following.
+Topics include but are not limited to: single track vehicles (e.g. bicycles,
+motorcycles, scooters), narrow track and tilting vehicles, unicycles, modeling,
+kinematics and dynamics, control, human control, rider properties, handling
+qualities, tires, experiments, aerodynamics, simulators, nonholonomic dynamics,
+robot riders, path following.
 
 The Evolving Scholar/Orvium
 ===========================
