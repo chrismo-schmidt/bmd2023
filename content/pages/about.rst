@@ -51,6 +51,8 @@ room for poster presentations.
 If you are interested in sponsoring the event, see the `Sponsor Information
 <{filename}/pages/sponsor-info.rst>`_ page.
 
+For general inquiries send an email to info@bmdconf.org.
+
 Check back for more information or sign up to the `Single Track Vehicles
 Dynamics Discussion List <https://groups.google.com/forum/#!forum/stvdy>`_ to
 stay updated.
