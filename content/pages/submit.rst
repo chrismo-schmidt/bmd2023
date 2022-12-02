@@ -8,14 +8,14 @@ Submit
 New Proceedings and Review Model
 ================================
 
-BMD 2023 is partnering with `TU Delft Open Publishing`_ so that we can
+BMD 2023 is partnering with `TU Delft OPEN Publishing`_ so that we can
 introduce enhancements to our conference proceedings review and publishing
 process and finally have a formal proceedings publication. TU Delft Open
 Publishing is an open access university publisher providing a free-to-publish
 model with `Creative Commons`_ licensing, transparent recognition, and no
 royalties.
 
-.. _TU Delft Open Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
+.. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 .. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
 
 This partnership provides these enhancements:
@@ -119,7 +119,7 @@ Published Proceedings
 =====================
 
 The proceedings (revised abstracts and peer reviewed papers) will be formally
-published as an online open access book by `TU Delft Open Publishing`_. The
+published as an online open access book by `TU Delft OPEN Publishing`_. The
 book will be assigned an ISBN/ISSN, Digital Object Identifiers (DOIs), and be
 indexed by services such as Google Scholar, the `Directory of Open Access
 Books`_, and OpenAire_.
@@ -132,7 +132,7 @@ Templates
 
 Microsoft Word and LaTeX templates for the abstracts and papers will be
 provided soon. We are still finalizing the design to be compatible with TU
-Delft Open Publishing, so check back later.
+Delft OPEN Publishing, so check back later.
 
 There is no template for the poster, however you should include the BMD
 conference header reported in the abstract template, with the conference name,
@@ -142,7 +142,7 @@ Copyright
 =========
 
 Authors will retain copyright to all versions of their abstracts and papers but
-will be required to grant a CC-BY 4.0 License to `TU Delft Open Publishing`_
+will be required to grant a CC-BY 4.0 License to `TU Delft OPEN Publishing`_
 and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
 and publishing the abstracts and papers. Similarly, reviewers retain copyright
 to their reviews but grant a CC-BY 4.0 License for display on the Orvium_
