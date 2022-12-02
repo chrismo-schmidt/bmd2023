@@ -39,8 +39,8 @@ Topics include but are not limited to: bicycles, motorcycles, unicycles, single
 track vehicles, modeling, kinematics and dynamics, control, human control,
 rider properties, handling qualities, tires, experiments, aerodynamics,
 simulators, nonholonomic dynamics, robot riders, path following. More
-information on the conference can be found at the `conference organization
-website <https://bmdconf.org>`_.
+information on the conference series can be found at the `conference
+organization website <https://bmdconf.org>`_.
 
 For an open sharing of information, the meeting is organized to provide as much
 interaction between participants as possible. The format is informal and fluid,
@@ -48,9 +48,8 @@ with a single track of presentations and extensive time scheduled for
 interaction, and the forming and sharing of ideas. In addition, there will be
 room for poster presentations.
 
-
-If you are interested in being on the local organizing committee or sponsoring
-the event, please send an email to Jason K. Moore (j.k.moore@tudelft.nl).
+If you are interested in sponsoring the event, see the `Sponsor Information
+<{filename}/pages/sponsor-info.rst>`_ page.
 
 Check back for more information or sign up to the `Single Track Vehicles
 Dynamics Discussion List <https://groups.google.com/forum/#!forum/stvdy>`_ to

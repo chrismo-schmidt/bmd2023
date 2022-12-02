@@ -2,6 +2,8 @@
 Submit
 ======
 
+:sortorder: 1
+
 .. contents:: Table of Contents
    :local:
    :class: floatcon

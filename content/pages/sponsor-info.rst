@@ -2,6 +2,8 @@
 Sponsor Information
 ===================
 
+:sortorder: 2
+
 The Bicycle and Motorcycle Dynamics symposium is the premier international
 venue for researchers into the stability, handling, and control of narrow-track
 vehicles. In 2023, the event will return to TU Delft, where it began and where
@@ -16,7 +18,7 @@ Sponsorship Tiers
 
 .. list-table::
    :widths: 30 70
-   :class: table
+   :class: table table-striped
    :header-rows: 1
 
    * - Tier
