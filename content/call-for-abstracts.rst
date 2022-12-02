@@ -30,7 +30,7 @@ field.
 
 .. _TU Delft Open Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 
-The previous four symposia were hosted at the Delft University of Technology in
+The previous four symposia were hosted the Delft University of Technology in
 the Netherlands, Nihon University College of Industrial Technology in
 Narashino, Japan, University of Wisconsin Milwaukee, USA, and University of
 Padova in Italy.
