@@ -7,6 +7,7 @@ Save the Date!
 :authors: Jason K. Moore
 
 .. image:: https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-large-640x295.png
+   :width: 60%
    :align: center
 
 The fifth triennial [*]_ international `Bicycle and Motorcycle Dynamics Conference
