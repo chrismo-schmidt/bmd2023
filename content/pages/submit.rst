@@ -14,20 +14,22 @@ New Proceedings and Review Model
 
 BMD 2023 is partnering with `TU Delft OPEN Publishing`_ so that we can
 introduce enhancements to our conference proceedings review and publishing
-process and finally have a formal proceedings publication. TU Delft OPEN
+process as well as finally have a formal proceedings publication. TU Delft OPEN
 Publishing is an open access university publisher providing a free-to-publish
 model with `Creative Commons`_ licensing, transparent recognition, and no
-royalties.
+royalties. The proceedings will be published in their "`The Evolving Scholar`_" open
+access journal which is powered by Orvium_, a journal management and publishing
+software.
 
 This partnership provides these enhancements:
 
-- Peer reviewed and archived abstracts and papers
+- Peer reviewed and archived abstracts and papers (DOIs issued for both)
 - Published and indexed open access conference proceedings (`prior examples`_)
-- We will be part of the `The Evolving Scholar`_/Orvium_ project and receive
-  review and publishing support
-- `Open peer review`_ software system via `The Evolving Scholar`_/Orvium_
-- Conference community platform via `The Evolving Scholar`_/Orvium_ for
-  submission, reviews, registration, and online interaction
+- We will be part of the The Evolving Scholar powered by Orvium project and
+  receive review and publishing support
+- `Open peer review`_ process powered by Orvium software
+- Conference community platform powered by Orvium for announcements,
+  submission, reviews, and online interaction
 
 See below for details on submitting your abstracts and papers.
 
@@ -60,17 +62,17 @@ Topics
 
 Topics include but are not limited to: single track vehicles (e.g. bicycles,
 motorcycles, scooters), narrow track and tilting vehicles, unicycles, dicycles
-(e.g. Segways and hoverboards),modeling, kinematics and dynamics, control,
+(e.g. Segways and hoverboards), modeling, kinematics and dynamics, control,
 human control, rider properties, handling qualities, tires, experiments,
 aerodynamics, simulators, nonholonomic dynamics, robot riders, path following.
 
 The Evolving Scholar/Orvium
 ===========================
 
-Conference attendees will create an account on our to-be-announced `The
-Evolving Scholar`_/Orvium_ conference community page. There you will be able to
-submit abstracts and papers as well as see anonymized reviews. We will share
-the page and login instructions at a later date.
+Conference attendees will create an account on our Evolving Scholar Orvium_
+conference community page. There you will be able to submit abstracts and
+papers as well as see anonymized reviews. We will share the page and login
+instructions at a later date.
 
 Abstracts
 =========
@@ -80,13 +82,13 @@ abstract of maximum 2 pages that describes the research you wish to present by
 February 28, 2023 [23:59 UTC]. Please state clear objectives, results, and
 conclusions and cite applicable references.
 
-You must use the provided templates and submit your abstract as a PDF to our
-Evolving Scholar Orvium Community. Your "under review" abstract will
-immediately be publicly viewable on `The Evolving Scholar`_/Orvium_. Following
-submission, your abstract will be reviewed by the scientific committee and
-ranked for relevance and quality for inclusion in the conference. The
-anonymized reviewer comments will be publicly viewable as part of our `open
-peer review`_ process.
+You must use the provided templates and submit your abstract as an ``.odt``,
+``.docx``, or ``.zip`` file containing the LaTeX source files to our Evolving
+Scholar Orvium Community. Your "preprint" abstract will immediately be publicly
+viewable on Orvium_. Following submission, your abstract will be reviewed by
+the scientific committee and ranked for relevance and quality for inclusion in
+the conference. The anonymized reviewer comments will be publicly viewable as
+part of our `open peer review`_ process.
 
 Based on the reviews, your abstract will be either accepted and selected for a
 podium or a poster presentation or it will be rejected. The organizing
@@ -115,8 +117,8 @@ expands on your abstract by September 15, 2023 [23:59 UTC]. This paper will
 undergo a post-conference peer review and, if the paper passes the review by a
 to-be-announced deadline, it will be published in the conference proceedings
 book. The papers (all versions) and their anonymized reviews will be available
-publicly on the `The Evolving Scholar`_/Orvium_ community for the conference as
-well as during and after the review process.
+publicly on the `The Evolving Scholar`_ powered by Orvium_ community for the
+conference as well as during and after the review process.
 
 Published Proceedings
 =====================
@@ -127,15 +129,12 @@ book will be assigned an ISBN/ISSN, Digital Object Identifiers (DOIs), and be
 indexed by services such as Google Scholar, the `Directory of Open Access
 Books`_, and OpenAire_.
 
-.. _OpenAire: https://www.openaire.eu/
-.. _Directory of Open Access Books: https://doabooks.org
-
 Templates
 =========
 
-Microsoft Word and LaTeX templates for the abstracts and papers will be
-provided soon. We are still finalizing the design to be compatible with TU
-Delft OPEN Publishing, so check back later.
+Libre/OpenOffice, Microsoft Word, and LaTeX templates for the abstracts and
+papers will be provided soon. We are still finalizing the design to be
+compatible with TU Delft OPEN Publishing, so check back later.
 
 There is no template for the poster, however you should include the BMD
 conference header reported in the abstract template, with the conference name,
@@ -149,17 +148,19 @@ will be required to grant a CC-BY 4.0 License to `TU Delft OPEN Publishing`_
 and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
 and publishing the abstracts and papers. Similarly, reviewers retain copyright
 to their reviews but grant a CC-BY 4.0 License for display on the `The Evolving
-Scholar`_/Orvium_ community.
+Scholar`_ powered by Orvium_ community.
 
 Open Peer Review
 ================
 
 Anonymized reviewer comments will be publicly viewable alongside the abstracts
-and papers on the `The Evolving Scholar`_/Orvium_ community.
+and papers on the `The Evolving Scholar`_ powered by Orvium_ community.
 
 .. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 .. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
 .. _Orvium: https://dapp.orvium.io/
 .. _The Evolving Scholar: https://journals.open.tudelft.nl/thes
 .. _open peer review: https://en.wikipedia.org/wiki/Open_peer_review
-.. _prior examples: https://books.open.tudelft.nl/home
+.. _prior examples: https://books.open.tudelft.nl/home/catalog/category/conferencebooks
+.. _OpenAire: https://www.openaire.eu/
+.. _Directory of Open Access Books: https://doabooks.org

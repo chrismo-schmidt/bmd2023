@@ -16,7 +16,7 @@ Call for Abstracts
 The call for abstracts for the `Bicycle and Motorcycle Dynamics 2023
 <https://2023.bmdconf.org>`_ is now open! Visit the `submit page
 <{filename}/pages/submit.rst>`_ on the conference website for more information
-including our new partnership with `TU Delft Open Publishing`_ and our new
+including our new partnership with `TU Delft OPEN Publishing`_ and our new
 formal conference proceedings.
 
 - Conference dates: October 18-20, 2023
@@ -28,12 +28,12 @@ bicycle and motorcycle dynamics and control. It aims to bring together leading
 academic and industry professionals, researchers and students in this exciting
 field.
 
-.. _TU Delft Open Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
+.. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 
-The previous four symposia were hosted the Delft University of Technology in
-the Netherlands, Nihon University College of Industrial Technology in
-Narashino, Japan, University of Wisconsin Milwaukee, USA, and University of
-Padova in Italy.
+The previous four symposia were hosted at Delft University of Technology in the
+Netherlands, Nihon University College of Industrial Technology in Narashino,
+Japan, University of Wisconsin Milwaukee, USA, and University of Padova in
+Italy.
 
 This year the conference is coming back to Delft University of Technology to
 celebrate over a decade of advancements in the field.
