@@ -177,7 +177,9 @@ How To Submit Via Orvium
    - Do not add a "Github Repository".
    - Do not edit the "Blockchain" section.
 
-6. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
+6. Press the "Save" button at any time to save your work before final
+   submission.
+7. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
    finalized, press "Submit".
 
 `Videos and help for using Orvium are available in the Orvium website
