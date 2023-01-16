@@ -132,13 +132,30 @@ Books`_, and OpenAire_.
 Templates
 =========
 
-Libre/OpenOffice, Microsoft Word, and LaTeX templates for the abstracts and
-papers will be provided soon. We are still finalizing the design to be
-compatible with TU Delft OPEN Publishing, so check back later.
+Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
+abstracts can be downloaded from these links:
+
+- `Abstract Libre/OpenOffice
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-final-2023/bmd2023a.odt>`_ (.odt)
+- `Abstract Microsoft Word
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-final-2023/bmd2023a.docx>`_ (.docx)
+- `Abstract LaTeX
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-final-2023/bmd2023a.zip>`_ (.zip)
+
+Libre/OpenOffice, Microsoft Word, and LaTeX templates for the papers will be
+provided after the abstract review process.
+
+Follow the instructions within the template to prepare your document. We will
+only accept submissions that follow the instructions because other file types
+or designs will not be compatible with the Orvium publishing system.
+
+Please report any issues with the templates at: https://github.com/moorepants/bmd-templates/issues
 
 There is no template for the poster, however you should include the BMD
 conference header reported in the abstract template, with the conference name,
 location and dates. The maximum size of the poster is A0 (841x1189mm).
+
+There is no template for the workshop abstract.
 
 Copyright
 =========
