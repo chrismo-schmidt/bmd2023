@@ -66,13 +66,27 @@ motorcycles, scooters), narrow track and tilting vehicles, unicycles, dicycles
 human control, rider properties, handling qualities, tires, experiments,
 aerodynamics, simulators, nonholonomic dynamics, robot riders, path following.
 
-The Evolving Scholar/Orvium
-===========================
+How To Submit Via Orvium
+========================
 
 Conference attendees will create an account on our Evolving Scholar Orvium_
 conference community page. There you will be able to submit abstracts and
 papers as well as see anonymized reviews. We will share the page and login
 instructions at a later date.
+
+Steps to submit:
+
+1. Download the template below and draft your abstract or paper.
+2. Create an account on Orivum_.
+3. Select "New Publication" in the upper right corner.
+4. Select the "The Evolving Scholar - BMD 2023, 5th Edition" community
+   (required!).
+5. Fill out the complete information for your submission (videos and help are
+   available in the Orvium website).
+6. When your paper information and upload is finalized, press "Submit".
+
+Note that announcements, reviews, acceptance/rejection, etc. will all be
+communicated via the Orvium platform.
 
 Abstracts
 =========
