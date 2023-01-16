@@ -66,13 +66,50 @@ motorcycles, scooters), narrow track and tilting vehicles, unicycles, dicycles
 human control, rider properties, handling qualities, tires, experiments,
 aerodynamics, simulators, nonholonomic dynamics, robot riders, path following.
 
-The Evolving Scholar/Orvium
-===========================
+Orvium
+======
 
-Conference attendees will create an account on our Evolving Scholar Orvium_
-conference community page. There you will be able to submit abstracts and
-papers as well as see anonymized reviews. We will share the page and login
-instructions at a later date.
+Orvium_ is a journal management and publishing software. All abstracts, papers,
+and reviews will all be visible on our Orvium `conference community page`_.
+Conference authors and reviewers will create an account on Orvium_. There you
+will be able to submit abstracts, papers, and anonymized reviews.
+
+Publication related announcements including reviews, acceptance/rejection, and
+revision requests will all be communicated via the Orvium platform.
+
+Any Orvium user can join the BMD conference community page by logging in,
+browsing communities, finding "The Evolving Scholar - BMD 2023, 5th Edition",
+and clicking the "Join" button.
+
+How To Submit Via Orvium
+========================
+
+1. Download the template below and draft your abstract or paper.
+2. Create an account on Orvium_.
+3. After you are logged into Orvium, click the blue "New Publication" button in
+   the upper right corner.
+4. In the "New Publication" popup, select the "Create" tab, select the "The
+   Evolving Scholar - BMD 2023, 5th Edition" community, type a title, and then
+   press the "Create" button.
+5. In the next screen, fill out the complete information and metadata for your
+   submission.
+
+   - Publication type should be "Extended abstract" or "Conference paper".
+   - Leave the "Abstract" field blank if submitting an "Extended abstract".
+   - The license should be CC-BY.
+   - Do not add any references.
+   - Upload your ``.odt``, ``.docx``, or ``.zip`` file to the "Publication
+     File" section.
+   - Do not fill out the "Conference & Journal Details".
+   - Do not add any "Extra Files".
+   - Do not add a "Github Repository".
+   - Do not edit the "Blockchain" section.
+
+6. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
+   finalized, press "Submit".
+
+`Videos and help for using Orvium are available in the Orvium website
+<https://help.orvium.io/>`_.
 
 Abstracts
 =========
@@ -176,6 +213,7 @@ and papers on the `The Evolving Scholar`_ powered by Orvium_ community.
 .. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 .. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
 .. _Orvium: https://dapp.orvium.io/
+.. _conference community page: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
 .. _The Evolving Scholar: https://journals.open.tudelft.nl/thes
 .. _open peer review: https://en.wikipedia.org/wiki/Open_peer_review
 .. _prior examples: https://books.open.tudelft.nl/home/catalog/category/conferencebooks
