@@ -52,8 +52,8 @@ Tuesday Drinks and Dinner
 
 We will organize an informal meetup (drinks and dinner) for workshop attendees,
 early arrivers, and locals to start at 17:30 on Tuesday, October 17, 2023
-(evening before the start of the conference). This will not be covered by your
-conference registration fee.
+(evening before the start of the conference). **This will not be covered by
+your conference registration fee.**
 
 Wednesday Bike Rodeo and Borrel
 ===============================
