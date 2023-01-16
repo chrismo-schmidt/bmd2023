@@ -132,7 +132,7 @@ Books`_, and OpenAire_.
 Templates
 =========
 
-Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conferencec
+Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
 
 - `Abstract Libre/OpenOffice
@@ -154,6 +154,8 @@ Please report any issues with the templates at: https://github.com/moorepants/bm
 There is no template for the poster, however you should include the BMD
 conference header reported in the abstract template, with the conference name,
 location and dates. The maximum size of the poster is A0 (841x1189mm).
+
+There is no template for the workshop abstract.
 
 Copyright
 =========
