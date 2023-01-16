@@ -84,6 +84,13 @@ Organizing Committee
 - Edwin de Vries [Cruden]
 - Leila Alizadehsaravi [TU Delft]
 
+Organizing Volunteers
+=====================
+
+- Riender Happee [TU Delft]
+- Christoph Schmidt [TU Delft]
+- Linda van der Spaa [TU Delft]
+
 Sponsors
 ========
 
