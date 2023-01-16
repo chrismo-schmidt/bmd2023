@@ -81,36 +81,6 @@ Any Orvium user can join the BMD conference community page by logging in,
 browsing communities, finding "The Evolving Scholar - BMD 2023, 5th Edition",
 and clicking the "Join" button.
 
-How To Submit Via Orvium
-========================
-
-1. Download the template below and draft your abstract or paper.
-2. Create an account on Orvium_.
-3. After you are logged into Orvium, click the blue "New Publication" button in
-   the upper right corner.
-4. In the "New Publication" popup, select the "Create" tab, select the "The
-   Evolving Scholar - BMD 2023, 5th Edition" community, type a title, and then
-   press the "Create" button.
-5. In the next screen, fill out the complete information and metadata for your
-   submission.
-
-   - Publication type should be "Extended abstract" or "Conference paper".
-   - Leave the "Abstract" field blank if submitting an "Extended abstract".
-   - The license should be CC-BY.
-   - Do not add any references.
-   - Upload your ``.odt``, ``.docx``, or ``.zip`` file to the "Publication
-     File" section.
-   - Do not fill out the "Conference & Journal Details".
-   - Do not add any "Extra Files".
-   - Do not add a "Github Repository".
-   - Do not edit the "Blockchain" section.
-
-6. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
-   finalized, press "Submit".
-
-`Videos and help for using Orvium are available in the Orvium website
-<https://help.orvium.io/>`_.
-
 Abstracts
 =========
 
@@ -166,6 +136,52 @@ book will be assigned an ISBN/ISSN, Digital Object Identifiers (DOIs), and be
 indexed by services such as Google Scholar, the `Directory of Open Access
 Books`_, and OpenAire_.
 
+Copyright
+=========
+
+Authors will retain copyright to all versions of their abstracts and papers but
+will be required to grant a CC-BY 4.0 License to `TU Delft OPEN Publishing`_
+and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
+and publishing the abstracts and papers. Similarly, reviewers retain copyright
+to their reviews but grant a CC-BY 4.0 License for display on the `The Evolving
+Scholar`_ powered by Orvium_ community.
+
+Open Peer Review
+================
+
+Anonymized reviewer comments will be publicly viewable alongside the abstracts
+and papers on the `The Evolving Scholar`_ powered by Orvium_ community.
+
+How To Submit Via Orvium
+========================
+
+1. Download the template below and draft your abstract or paper.
+2. Create an account on Orvium_.
+3. After you are logged into Orvium, click the blue "New Publication" button in
+   the upper right corner.
+4. In the "New Publication" popup, select the "Create" tab, select the "The
+   Evolving Scholar - BMD 2023, 5th Edition" community, type a title, and then
+   press the "Create" button.
+5. In the next screen, fill out the complete information and metadata for your
+   submission.
+
+   - Publication type should be "Extended abstract" or "Conference paper".
+   - Leave the "Abstract" field blank if submitting an "Extended abstract".
+   - The license should be CC-BY.
+   - Do not add any references.
+   - Upload your ``.odt``, ``.docx``, or ``.zip`` file to the "Publication
+     File" section.
+   - Do not fill out the "Conference & Journal Details".
+   - Do not add any "Extra Files".
+   - Do not add a "Github Repository".
+   - Do not edit the "Blockchain" section.
+
+6. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
+   finalized, press "Submit".
+
+`Videos and help for using Orvium are available in the Orvium website
+<https://help.orvium.io/>`_.
+
 Templates
 =========
 
@@ -193,22 +209,6 @@ conference header reported in the abstract template, with the conference name,
 location and dates. The maximum size of the poster is A0 (841x1189mm).
 
 There is no template for the workshop abstract.
-
-Copyright
-=========
-
-Authors will retain copyright to all versions of their abstracts and papers but
-will be required to grant a CC-BY 4.0 License to `TU Delft OPEN Publishing`_
-and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
-and publishing the abstracts and papers. Similarly, reviewers retain copyright
-to their reviews but grant a CC-BY 4.0 License for display on the `The Evolving
-Scholar`_ powered by Orvium_ community.
-
-Open Peer Review
-================
-
-Anonymized reviewer comments will be publicly viewable alongside the abstracts
-and papers on the `The Evolving Scholar`_ powered by Orvium_ community.
 
 .. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 .. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
