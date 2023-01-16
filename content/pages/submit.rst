@@ -124,8 +124,9 @@ expands on your abstract by September 15, 2023 [23:59 UTC]. This paper will
 undergo a post-conference peer review and, if the paper passes the review by a
 to-be-announced deadline, it will be published in the conference proceedings
 book. The papers (all versions) and their anonymized reviews will be available
-publicly on the `The Evolving Scholar`_ powered by Orvium_ community for the
-conference as well as during and after the review process.
+publicly on the `The Evolving Scholar`_ powered by Orvium_ `conference
+community page`_ for the conference as well as during and after the review
+process.
 
 Published Proceedings
 =====================
@@ -144,13 +145,13 @@ will be required to grant a CC-BY 4.0 License to `TU Delft OPEN Publishing`_
 and the Bicycle and Motorcycle Dynamics Conference for the purposes of sharing
 and publishing the abstracts and papers. Similarly, reviewers retain copyright
 to their reviews but grant a CC-BY 4.0 License for display on the `The Evolving
-Scholar`_ powered by Orvium_ community.
+Scholar`_ powered by Orvium_ `conference community page`_.
 
 Open Peer Review
 ================
 
 Anonymized reviewer comments will be publicly viewable alongside the abstracts
-and papers on the `The Evolving Scholar`_ powered by Orvium_ community.
+and papers on the Orvium `conference community page`_.
 
 How To Submit Via Orvium
 ========================
