@@ -217,6 +217,33 @@ location and dates. The maximum size of the poster is A0 (841x1189mm).
 
 There is no template for the workshop abstract.
 
+Awards
+======
+
+Awards will be given for the best posters and the best presentations by popular
+vote. Conference attendees will vote with the tickets in their conference
+badge: 1 vote for posters, 1 vote for presentations, 1 box, 2 colors, 1 per
+genre.
+
+.. list-table::
+   :class: table table-striped
+
+   * - Best overall (not only students) presentation
+     - 250€
+     - Two best student presentations (Innovation and dissemination)
+     - 200€ and 150€
+   * - Best overall (not only students) poster
+     - 200€
+     - Two best student posters (Innovation and style)
+     - 150€ and 100€
+
+Voting criteria are listed below and scores are between 1 to 10:
+
+- Innovation
+- Societal impact
+- Dissemination
+- Style (the slide deck or the poster)
+
 .. _TU Delft OPEN Publishing: https://www.tudelft.nl/library/actuele-themas/open-publishing
 .. _Creative Commons: https://en.wikipedia.org/wiki/Creative_Commons
 .. _Orvium: https://dapp.orvium.io/
