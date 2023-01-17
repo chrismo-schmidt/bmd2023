@@ -81,6 +81,10 @@ Any Orvium user can join the BMD conference community page by logging in,
 browsing communities, finding "The Evolving Scholar - BMD 2023, 5th Edition",
 and clicking the "Join" button.
 
+.. image:: https://objects-us-east-1.dream.io/mechmotum/orvium-community.png
+   :align: center
+   :target: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
+
 Abstracts
 =========
 
