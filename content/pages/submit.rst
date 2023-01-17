@@ -77,10 +77,6 @@ will be able to submit abstracts, papers, and anonymized reviews.
 Publication related announcements including reviews, acceptance/rejection, and
 revision requests will all be communicated via the Orvium platform.
 
-Any Orvium user can join the BMD conference community page by logging in,
-browsing communities, finding "The Evolving Scholar - BMD 2023, 5th Edition",
-and clicking the "Join" button.
-
 .. image:: https://objects-us-east-1.dream.io/mechmotum/orvium-community.png
    :align: center
    :target: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
@@ -94,12 +90,12 @@ February 28, 2023 [23:59 UTC]. Please state clear objectives, results, and
 conclusions and cite applicable references.
 
 You must use the provided templates and submit your abstract as an ``.odt``,
-``.docx``, or ``.zip`` file containing the LaTeX source files to our Evolving
-Scholar Orvium Community. Your "preprint" abstract will immediately be publicly
-viewable on Orvium_. Following submission, your abstract will be reviewed by
-the scientific committee and ranked for relevance and quality for inclusion in
-the conference. The anonymized reviewer comments will be publicly viewable as
-part of our `open peer review`_ process.
+``.docx``, or ``.zip`` file containing the LaTeX source files to our Orvium
+Community. Your "preprint" abstract will be publicly viewable on Orvium_ after
+a editorial check. Following submission, your abstract will be reviewed by the
+scientific committee and ranked for relevance and quality for inclusion in the
+conference.  The anonymized reviewer comments will be publicly viewable as part
+of our `open peer review`_ process.
 
 Based on the reviews, your abstract will be either accepted and selected for a
 podium or a poster presentation or it will be rejected. The organizing
@@ -171,7 +167,6 @@ How To Submit Via Orvium
    submission.
 
    - Publication type should be "Extended abstract" or "Conference paper".
-   - Leave the "Abstract" field blank if submitting an "Extended abstract".
    - The license should be CC-BY.
    - Do not add any references.
    - Upload your ``.odt``, ``.docx``, or ``.zip`` file to the "Publication
