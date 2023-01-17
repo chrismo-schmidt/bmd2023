@@ -169,16 +169,12 @@ How To Submit Via Orvium
 
    - Publication type should be "Extended abstract" or "Conference paper".
    - Fill in the keywords and discipline to fit your submission.
-   - Leave the DOI field blank.
+   - Add your authors to the authors section.
    - The license should be CC-BY.
-   - Do not add any references (they should already be present in your abstract
-     or paper).
+   - Ignore the "DOI", "Conference & Journal Details", "References", "Extra
+     Files", "Github Repository", and "Blockchain" fields.
    - Press "Save" and then upload your ``.odt``, ``.docx``, or ``.zip`` file to
      the "Publication File" section.
-   - Do not fill out the "Conference & Journal Details".
-   - Do not add any "Extra Files".
-   - Do not add a "Github Repository".
-   - Do not edit the "Blockchain" section.
 
 6. Press the "Save" button at any time to save your work before final
    submission.
