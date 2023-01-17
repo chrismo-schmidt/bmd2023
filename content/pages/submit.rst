@@ -157,7 +157,8 @@ How To Submit Via Orvium
 ========================
 
 1. Download the template below and draft your abstract or paper.
-2. Create an account on Orvium_.
+2. Create an account on Orvium_ (registering via and ORCID account is
+   recommended).
 3. After you are logged into Orvium, click the blue "New Publication" button in
    the upper right corner.
 4. In the "New Publication" popup, select the "Create" tab, select the "The
@@ -167,10 +168,13 @@ How To Submit Via Orvium
    submission.
 
    - Publication type should be "Extended abstract" or "Conference paper".
+   - Fill in the keywords and discipline to fit your submission.
+   - Leave the DOI field blank.
    - The license should be CC-BY.
-   - Do not add any references.
-   - Upload your ``.odt``, ``.docx``, or ``.zip`` file to the "Publication
-     File" section.
+   - Do not add any references (they should already be present in your abstract
+     or paper).
+   - Press "Save" and then upload your ``.odt``, ``.docx``, or ``.zip`` file to
+     the "Publication File" section.
    - Do not fill out the "Conference & Journal Details".
    - Do not add any "Extra Files".
    - Do not add a "Github Repository".
