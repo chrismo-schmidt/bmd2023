@@ -77,9 +77,11 @@ will be able to submit abstracts, papers, and anonymized reviews.
 Publication related announcements including reviews, acceptance/rejection, and
 revision requests will all be communicated via the Orvium platform.
 
-.. image:: https://objects-us-east-1.dream.io/mechmotum/orvium-community.png
+.. figure:: https://objects-us-east-1.dream.io/mechmotum/orvium-community.png
    :align: center
    :target: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
+
+   `Orvium BMD Community Page <https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view>`_
 
 Abstracts
 =========
