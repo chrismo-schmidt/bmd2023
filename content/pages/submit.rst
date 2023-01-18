@@ -170,6 +170,9 @@ How To Submit Via Orvium
    submission.
 
    - Publication type should be "Extended abstract" or "Conference paper".
+   - For "Extended abstract" add a couple of descriptive sentences in the
+     "Abstract" field. For "Conference paper" add your full abstract (which is
+     also included in the paper itself.
    - Fill in the keywords and discipline to fit your submission.
    - Add your authors to the authors section.
    - The license should be CC-BY.
