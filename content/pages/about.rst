@@ -63,7 +63,7 @@ Important Dates
      - Date & Time
    * - Abstract Deadline (conference & workshop)
      - February 28, 2023 [23:59 UTC]
-   * - Notification of Acceptance
+   * - Notification of Acceptance & Registration Open
      - May 1, 2023
    * - Revised Abstract Deadline
      - June 30, 2023 [23:59 UTC]
