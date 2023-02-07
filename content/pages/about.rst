@@ -87,9 +87,32 @@ Organizing Committee
 Organizing Volunteers
 =====================
 
-- Riender Happee [TU Delft]
 - Christoph Schmidt [TU Delft]
+- Gabriele Dell'Orto [TU Delft]
 - Linda van der Spaa [TU Delft]
+- Riender Happee [TU Delft]
+
+Scientific Committee
+====================
+
+- Alberto Doria [University of Padua]
+- Alessandro Beghi [University of Padua]
+- Arend Schwab [Delft University of Technology]
+- Atanas Popov [University of Nottingham]
+- Gianpiero Mastinu [Polytechnic University of Milan]
+- Jaap Meijaard [Delft University of Technology]
+- Jim Brendelson [Cycle Scientific LLC]
+- Jodi Kooijman [Swugo B.V.]
+- Jürgen Wrede [Pforzheim University]
+- Manfred Plöchl [TU Wien]
+- Marco Pezzola [University of Bologna]
+- Matteo Corno [Polytechnic University of Milan]
+- Matteo Massaro [University of Padua]
+- Mio Suzuki [Trek Bicycle Corporation]
+- Riender Happee [Delft University of Technology]
+- Roberto Lot [University of Padua]
+- Sam Brockie [Delft University of Technology]
+- Stephen Cain [West Virginia University]
 
 Sponsors
 ========
