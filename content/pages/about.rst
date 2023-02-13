@@ -102,6 +102,7 @@ Scientific Committee
 - Gianpiero Mastinu [Polytechnic University of Milan]
 - Ichiro Kageyama [Nihon University]
 - Jaap Meijaard [Delft University of Technology]
+- James Sadauckas [Trek Bicycle Corporation]
 - Jim Brendelson [Cycle Scientific LLC]
 - Jodi Kooijman [Swugo B.V.]
 - Jürgen Wrede [Pforzheim University]
