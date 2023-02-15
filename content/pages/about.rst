@@ -116,6 +116,7 @@ Scientific Committee
 - Roberto Lot [University of Padua]
 - Sam Brockie [Delft University of Technology]
 - Stephen Cain [West Virginia University]
+- Tomoya Kitani [Shizuoka University]
 
 Sponsors
 ========
