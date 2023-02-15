@@ -194,15 +194,21 @@ How To Submit Via Orvium
 Templates
 =========
 
+.. admonition:: Alert
+   :class: alert alert-info
+
+   Templates last updated 2023-02-15 with some small bug fixes (LaTeX) and
+   improved instructions (DOCX/ODT).
+
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
 
 - `Abstract Libre/OpenOffice
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.odt>`_ (.odt)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.odt>`_ (.odt)
 - `Abstract Microsoft Word
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.docx>`_ (.docx)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.docx>`_ (.docx)
 - `Abstract LaTeX
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.zip>`_ (.zip)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
 
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the papers will be
 provided after the abstract review process.
