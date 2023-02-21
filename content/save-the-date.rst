@@ -6,7 +6,7 @@ Save the Date!
 :category: news
 :authors: Jason K. Moore
 
-.. image:: https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-large-640x295.png
+.. image:: https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png
    :width: 60%
    :align: center
 

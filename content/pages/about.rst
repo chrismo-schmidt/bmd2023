@@ -18,10 +18,10 @@ About
       - |campus|
         TU Delft's Mekel Park in August (`CC-BY-NC 2.0 <https://www.flickr.com/photos/tudelft/5392443921>`_)
 
-.. |logo| image:: https://objects-us-east-1.dream.io/mechmotum/bmd2023-logo-large-640x295.png
+.. |logo| image:: https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png
    :width: 100%
 
-.. |tud-logo| image:: https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png
+.. |tud-logo| image:: https://moorepants.info/mechmotum-bucket/tu-delft-logo-233x100.png
    :width: 50%
 
 .. |campus| image::  https://live.staticflickr.com/5295/5392443921_6e5251027b_b.jpg
