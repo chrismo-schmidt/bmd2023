@@ -200,6 +200,9 @@ Templates
    Templates last updated 2023-02-15 with some small bug fixes (LaTeX) and
    improved instructions (DOCX/ODT).
 
+   DOCX template was updated on 2023-02-21 to correct the issue with the
+   headers disappearing when content was deleted from the body.
+
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
 
