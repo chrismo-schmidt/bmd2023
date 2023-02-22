@@ -77,7 +77,7 @@ will be able to submit abstracts, papers, and anonymized reviews.
 Publication related announcements including reviews, acceptance/rejection, and
 revision requests will all be communicated via the Orvium platform.
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/orvium-community.png
+.. figure:: https://moorepants.info/mechmotum-bucket/orvium-community.png
    :align: center
    :target: https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view
 
@@ -194,15 +194,24 @@ How To Submit Via Orvium
 Templates
 =========
 
+.. admonition:: Alert
+   :class: alert alert-info
+
+   Templates last updated 2023-02-15 with some small bug fixes (LaTeX) and
+   improved instructions (DOCX/ODT).
+
+   DOCX template was updated on 2023-02-21 to correct the issue with the
+   headers disappearing when content was deleted from the body.
+
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
 
 - `Abstract Libre/OpenOffice
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.odt>`_ (.odt)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.odt>`_ (.odt)
 - `Abstract Microsoft Word
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.docx>`_ (.docx)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.docx>`_ (.docx)
 - `Abstract LaTeX
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.1/bmd2023a.zip>`_ (.zip)
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
 
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the papers will be
 provided after the abstract review process.

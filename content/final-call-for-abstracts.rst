@@ -1,8 +1,8 @@
-===========================================
-Second Call for Abstracts and Other Updates
-===========================================
+========================
+Final Call for Abstracts
+========================
 
-:date: 2023-01-17 15:00:00
+:date: 2023-02-22 06:50:00
 :category: news
 :authors: Jason K. Moore
 
@@ -20,6 +20,15 @@ Two-page abstracts for oral or poster presentations are **due on February 28th,
 2023**. Abstract templates are available on the conference website along with
 instructions for submitting your abstract to Orvium. `Read more...
 <{filename}/pages/submit.rst>`__
+
+**The LaTeX and Word templates have been recently updated to correct some
+issues. Please download the new templates if affected.**
+
+Registration Fees Posted
+========================
+
+Registration will open May 1st with an early bird fee (€275) deadline of August
+15th. `Read more... <{filename}/pages/registration.rst>`__
 
 Pre-Conference Simulator Workshop
 =================================
