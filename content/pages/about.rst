@@ -98,7 +98,9 @@ Scientific Committee
 - Alberto Doria [University of Padua]
 - Alessandro Beghi [University of Padua]
 - Arend Schwab [Delft University of Technology]
+- Arno Stienen [Delft University of Technology]
 - Atanas Popov [University of Nottingham]
+- Eric Maris [Radboud University]
 - Gianpiero Mastinu [Polytechnic University of Milan]
 - Ichiro Kageyama [Nihon University]
 - Jaap Meijaard [Delft University of Technology]
@@ -111,11 +113,16 @@ Scientific Committee
 - Marco Pezzola [University of Bologna]
 - Matteo Corno [Polytechnic University of Milan]
 - Matteo Massaro [University of Padua]
+- Mattia Bruschetta [University of Padua]
 - Mio Suzuki [Trek Bicycle Corporation]
+- Mont Hubbard [University of California, Davis]
 - Riender Happee [Delft University of Technology]
 - Roberto Lot [University of Padua]
 - Sam Brockie [Delft University of Technology]
+- Simo Evangelou [Imperial College London]
+- Siri Berge [Delft University of Technology]
 - Stephen Cain [West Virginia University]
+- Tomoya Kitani [Shizouka University]
 
 Sponsors
 ========
