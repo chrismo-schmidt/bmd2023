@@ -98,6 +98,7 @@ Scientific Committee
 - Alberto Doria [University of Padua]
 - Alessandro Beghi [University of Padua]
 - Arend Schwab [Delft University of Technology]
+- Arno Stienen [Delft University of Technology]
 - Atanas Popov [University of Nottingham]
 - Gianpiero Mastinu [Polytechnic University of Milan]
 - Ichiro Kageyama [Nihon University]
@@ -115,6 +116,7 @@ Scientific Committee
 - Riender Happee [Delft University of Technology]
 - Roberto Lot [University of Padua]
 - Sam Brockie [Delft University of Technology]
+- Simos Evangelou [Imperial College London]
 - Stephen Cain [West Virginia University]
 - Tomoya Kitani [Shizuoka University]
 
