@@ -111,6 +111,7 @@ Scientific Committee
 - Jürgen Wrede [Pforzheim University]
 - Linda van der Spaa [Delft University of Technology]
 - Manfred Plöchl [TU Wien]
+- Marco Dozza [Chalmers University of Technology]
 - Marco Pezzola [University of Bologna]
 - Matteo Corno [Polytechnic University of Milan]
 - Matteo Massaro [University of Padua]
