@@ -97,6 +97,7 @@ Scientific Committee
 
 - Alberto Doria [University of Padua]
 - Alessandro Beghi [University of Padua]
+- Alka Gupta [Harley Davidson]
 - Arend Schwab [Delft University of Technology]
 - Arno Stienen [Delft University of Technology]
 - Atanas Popov [University of Nottingham]
