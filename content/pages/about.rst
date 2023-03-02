@@ -8,6 +8,9 @@ About
 :date: 2021-09-23
 :front: true
 
+.. role:: strike
+   :class: strike
+
 .. list-table::
    :class: borderless
    :width: 100%
@@ -61,8 +64,8 @@ Important Dates
 
    * - Description
      - Date & Time
-   * - Conference Abstract Deadline
-     - February 28, 2023 [23:59 UTC]
+   * - :strike:`Conference Abstract Deadline`
+     - :strike:`February 28, 2023 [23:59 UTC]`
    * - Extended Simulator Workshop Abstract Deadline
      - March 7, 2023 [23:59 UTC]
    * - Notification of Acceptance & Registration Open

@@ -5,6 +5,9 @@ Submit Abstract & Paper
 :slug: submit
 :sortorder: 1
 
+.. role:: strike
+   :class: strike
+
 .. contents:: Table of Contents
    :local:
    :class: floatcon
@@ -42,8 +45,8 @@ Important Dates
 
    * - Description
      - Date & Time
-   * - Conference Abstract Deadline
-     - February 28, 2023 [23:59 UTC]
+   * - :strike:`Conference Abstract Deadline`
+     - :strike:`February 28, 2023 [23:59 UTC]`
    * - Extended Simulator Workshop Abstract Deadline
      - March 7, 2023 [23:59 UTC]
    * - Notification of Acceptance & Registration Open
