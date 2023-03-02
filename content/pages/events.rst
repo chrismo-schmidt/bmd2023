@@ -45,7 +45,8 @@ performance.
 It is fine to also present research results at the actual conference.
 
 Abstracts for the workshop can be submitted to Linda van der Spaa by email
-(L.F.vanderSpaa@tudelft.nl) before February 28, 2023.
+(L.F.vanderSpaa@tudelft.nl) before March 7, 2023 (extended from February 28,
+2023).
 
 Tuesday Drinks
 ==============
