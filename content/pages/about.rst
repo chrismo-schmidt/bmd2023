@@ -101,6 +101,7 @@ Scientific Committee
 ====================
 
 - Alberto Doria [University of Padua]
+- Alejandro Polanco [University Gustave Eiffel]
 - Alessandro Beghi [University of Padua]
 - Alka Gupta [Harley Davidson]
 - Arend Schwab [Delft University of Technology]
