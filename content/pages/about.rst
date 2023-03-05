@@ -164,14 +164,11 @@ Sponsors
    :width: 100%
 
    * - .. image:: https://d2k0ddhflgrk1i.cloudfront.net/3mE/BME-met-tekst-large.png
-          :height: 200px
+          :width: 100%
           :target: https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering
-     - .. image:: blank
+     - .. image:: https://d2k0ddhflgrk1i.cloudfront.net/_processed_/b/a/csm_header_OpenPublishing_e7be5034d7.jpg
           :width: 100%
-          :target: blank
-     - .. image:: blank
-          :width: 100%
-          :target: blank
+          :target: https://www.tudelft.nl/library/actuele-themas/open-publishing
 
 .. _BioMechanical Engineering Department: https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering
 .. _Delft University of Technology: https://www.tudelft.nl
