@@ -81,58 +81,79 @@ Important Dates
    * - Final peer review revision deadline
      - TBA (after the conference)
 
-Organizing Committee
-====================
+.. raw:: html
 
-- Jason K. Moore [TU Delft], Chair (j.k.moore@tudelft.nl)
-- Andrew Dressel [TU Delft]
-- Edwin de Vries [Cruden]
-- Leila Alizadehsaravi [TU Delft]
+   <div class="container">
+   <div class="row">
+     <div class="col-lg-6">
+       <h2>Organizing Committee</h2>
+       <ul>
+         <li>Jason K. Moore [TU Delft], Chair (j.k.moore@tudelft.nl)</li>
+         <li>Andrew Dressel [TU Delft]</li>
+         <li>Edwin de Vries [Cruden]</li>
+         <li>Leila Alizadehsaravi [TU Delft]</li>
+       </ul>
+     </div>
+     <div class="col-lg-6">
+       <h2>Organizing Volunteers</h2>
+       <ul>
+         <li>Christoph Schmidt [TU Delft]</li>
+         <li>Gabriele Dell'Orto [TU Delft]</li>
+         <li>Linda van der Spaa [TU Delft]</li>
+         <li>Riender Happee [TU Delft]</li>
+       </ul>
+     </div>
+   </div>
+   </div>
 
-Organizing Volunteers
-=====================
+.. raw:: html
 
-- Christoph Schmidt [TU Delft]
-- Gabriele Dell'Orto [TU Delft]
-- Linda van der Spaa [TU Delft]
-- Riender Happee [TU Delft]
-
-Scientific Committee
-====================
-
-- Alberto Doria [University of Padua]
-- Alejandro Polanco [University Gustave Eiffel]
-- Alessandro Beghi [University of Padua]
-- Alka Gupta [Harley Davidson]
-- Arend Schwab [Delft University of Technology]
-- Arno Stienen [Delft University of Technology]
-- Atanas Popov [University of Nottingham]
-- Eric Maris [Radboud University]
-- Gianpiero Mastinu [Polytechnic University of Milan]
-- Ichiro Kageyama [Nihon University]
-- Jaap Meijaard [Delft University of Technology]
-- James Sadauckas [Trek Bicycle Corporation]
-- Jim Brendelson [Cycle Scientific LLC]
-- Jodi Kooijman [Swugo B.V.]
-- Jürgen Wrede [Pforzheim University]
-- Linda van der Spaa [Delft University of Technology]
-- Manfred Plöchl [TU Wien]
-- Marco Dozza [Chalmers University of Technology]
-- Marco Pezzola [University of Bologna]
-- Matteo Corno [Polytechnic University of Milan]
-- Matteo Massaro [University of Padua]
-- Mattia Bruschetta [University of Padua]
-- Michael Taylor [Harley Davidson]
-- Mio Suzuki [Trek Bicycle Corporation]
-- Mont Hubbard [University of California, Davis]
-- Nicolay Ruffo [VI-grade Srl]
-- Riender Happee [Delft University of Technology]
-- Roberto Lot [University of Padua]
-- Sam Brockie [Delft University of Technology]
-- Simos Evangelou [Imperial College London]
-- Siri Berge [Delft University of Technology]
-- Stephen Cain [West Virginia University]
-- Tomoya Kitani [Shizuoka University]
+   <div class="container">
+   <h2>Scientific Committee</h2>
+   <div class="row">
+     <div class="col-lg-6">
+       <ul>
+           <li>Alberto Doria [University of Padua]</li>
+           <li>Alejandro Polanco [University Gustave Eiffel]</li>
+           <li>Alessandro Beghi [University of Padua]</li>
+           <li>Alka Gupta [Harley Davidson]</li>
+           <li>Arend Schwab [Delft University of Technology]</li>
+           <li>Arno Stienen [Delft University of Technology]</li>
+           <li>Atanas Popov [University of Nottingham]</li>
+           <li>Eric Maris [Radboud University]</li>
+           <li>Gianpiero Mastinu [Polytechnic University of Milan]</li>
+           <li>Ichiro Kageyama [Nihon University]</li>
+           <li>Jaap Meijaard [Delft University of Technology]</li>
+           <li>James Sadauckas [Trek Bicycle Corporation]</li>
+           <li>Jim Brendelson [Cycle Scientific LLC]</li>
+           <li>Jodi Kooijman [Swugo B.V.]</li>
+           <li>Jürgen Wrede [Pforzheim University]</li>
+           <li>Linda van der Spaa [Delft University of Technology]</li>
+           <li>Manfred Plöchl [TU Wien]</li>
+        </ul>
+     </div>
+     <div class="col-lg-6">
+       <ul>
+           <li>Marco Dozza [Chalmers University of Technology]</li>
+           <li>Marco Pezzola [University of Bologna]</li>
+           <li>Matteo Corno [Polytechnic University of Milan]</li>
+           <li>Matteo Massaro [University of Padua]</li>
+           <li>Mattia Bruschetta [University of Padua]</li>
+           <li>Michael Taylor [Harley Davidson]</li>
+           <li>Mio Suzuki [Trek Bicycle Corporation]</li>
+           <li>Mont Hubbard [University of California, Davis]</li>
+           <li>Nicolay Ruffo [VI-grade Srl]</li>
+           <li>Riender Happee [Delft University of Technology]</li>
+           <li>Roberto Lot [University of Padua]</li>
+           <li>Sam Brockie [Delft University of Technology]</li>
+           <li>Simos Evangelou [Imperial College London]</li>
+           <li>Siri Berge [Delft University of Technology]</li>
+           <li>Stephen Cain [West Virginia University]</li>
+           <li>Tomoya Kitani [Shizuoka University]</li>
+       </ul>
+     </div>
+   </div>
+   </div>
 
 Sponsors
 ========
