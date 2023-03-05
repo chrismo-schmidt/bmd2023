@@ -88,7 +88,7 @@ Important Dates
      <div class="col-lg-6">
        <h2>Organizing Committee</h2>
        <ul>
-         <li>Jason K. Moore [TU Delft], Chair (j.k.moore@tudelft.nl)</li>
+         <li>Jason K. Moore [TU Delft], Chair</li>
          <li>Andrew Dressel [TU Delft]</li>
          <li>Edwin de Vries [Cruden]</li>
          <li>Leila Alizadehsaravi [TU Delft]</li>
