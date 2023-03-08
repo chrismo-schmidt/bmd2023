@@ -114,7 +114,7 @@ Important Dates
      <div class="col-lg-6">
        <ul>
            <li>Alberto Doria [University of Padua]</li>
-           <li>Alejandro Polanco [University Gustave Eiffel]</li>
+           <li>Alejandra Polanco [University Gustave Eiffel]</li>
            <li>Alessandro Beghi [University of Padua]</li>
            <li>Alka Gupta [Harley Davidson]</li>
            <li>Arend Schwab [Delft University of Technology]</li>
