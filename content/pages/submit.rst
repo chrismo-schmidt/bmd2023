@@ -199,6 +199,16 @@ How To Submit Via Orvium
 Templates
 =========
 
+Follow the instructions within the template to prepare your document. We will
+only accept submissions that follow the instructions because other file types
+or designs will not be compatible with the Orvium publishing system.
+
+Please report any issues with the templates at:
+https://github.com/moorepants/bmd-templates/issues
+
+Extended Abstract Templates
+---------------------------
+
 .. admonition:: Alert
    :class: alert alert-info
 
@@ -218,20 +228,34 @@ abstracts can be downloaded from these links:
 - `Abstract LaTeX
   <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
 
+Paper Templates
+---------------
+
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the papers will be
 provided after the abstract review process.
 
-Follow the instructions within the template to prepare your document. We will
-only accept submissions that follow the instructions because other file types
-or designs will not be compatible with the Orvium publishing system.
-
-Please report any issues with the templates at: https://github.com/moorepants/bmd-templates/issues
+Poster Templates
+----------------
 
 There is no template for the poster, however you should include the BMD
 conference header reported in the abstract template, with the conference name,
 location and dates. The maximum size of the poster is A0 (841x1189mm).
 
+Workshop Abstract Templates
+---------------------------
+
 There is no template for the workshop abstract.
+
+Extended Abstract Review Template
+---------------------------------
+
+Reviewers should use the template below for reviewing abstracts. Submit one
+filled sheet per review on Orvium. You can use odt or docx.
+
+- `Abstract Review Sheet Libre/OpenOffice
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.odt>`_ (.odt)
+- `Abstract Review Sheet Microsoft Word
+  <https://github.com/moorepants/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.docx>`_ (.docx)
 
 Awards
 ======
