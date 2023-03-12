@@ -47,8 +47,8 @@ Important Dates
      - Date & Time
    * - :strike:`Conference Abstract Deadline`
      - :strike:`February 28, 2023 [23:59 UTC]`
-   * - Extended Simulator Workshop Abstract Deadline
-     - March 7, 2023 [23:59 UTC]
+   * - :strike:`Extended Simulator Workshop Abstract Deadline`
+     - :strike:`March 7, 2023 [23:59 UTC]`
    * - Notification of Acceptance & Registration Open
      - May 1, 2023
    * - Revised Abstract Deadline
